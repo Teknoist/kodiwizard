@@ -1,5 +1,5 @@
 name="[KODI 17] Yeni Bunu Dene"
-url=""
+url="https://drive.google.com/uc?export=download&id=1wZkzeCm8cvgjvgNEiDkWs_7Pm4d5H4D9"
 img="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_icon.png"
 fanart="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_fanart.png"
 description="Developed since Alpha and now completely overhauled for Kodi 17 final"
