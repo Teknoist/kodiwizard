@@ -6,7 +6,7 @@ description="Developed since Alpha and now completely overhauled for Kodi 17 fin
 version="1.5"
 
 name="[KODI 17] SkymashiTV Lite 2.0"
-url="C:\Users\mahmu\AppData\Roaming\Kodi\Kodi.zip"
+url="https://download1494.mediafire.com/yafxcbaxdggg/260p7l59tiz05p6/Kodi.zip"
 img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
 fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
 description="The lite and beautiful Lite Build, now for Kodi 17"
