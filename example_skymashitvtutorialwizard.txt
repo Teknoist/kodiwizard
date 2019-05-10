@@ -1,10 +1,3 @@
-name="[KODI 17] Yeni Bunu Dene"
-url="https://drive.google.com/uc?export=download&id=1wZkzeCm8cvgjvgNEiDkWs_7Pm4d5H4D9"
-img="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_icon.png"
-fanart="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_fanart.png"
-description="Developed since Alpha and now completely overhauled for Kodi 17 final"
-version="1.5"
-
 name="[KODI 17] SkymashiTV Lite 2.0"
 url="https://download1494.mediafire.com/yafxcbaxdggg/260p7l59tiz05p6/Kodi.zip"
 img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
@@ -12,16 +5,3 @@ fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1
 description="The lite and beautiful Lite Build, now for Kodi 17"
 version="2.2"
 
-name="[KODI 17] Dropbox Test"
-url="https://www.dropbox.com/s/ql2xiu1xxp6qyrk/Kodi.zip?dl=1"
-img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
-fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
-description="The lite and beautiful Lite Build, now for Kodi 17"
-version="2.2"
-
-name="[KODI 17] Google Drive"
-url="https://doc-0g-2o-docs.googleusercontent.com/docs/securesc/vaa0ojj48llin1bpt5saqnt9e5ge176o/0i5mija64vtpkqrbanqpb75uffrfhd0e/1557525600000/10645098159169118608/10645098159169118608/1wZkzeCm8cvgjvgNEiDkWs_7Pm4d5H4D9?e=download&nonce=6e5grerac6fp0&user=10645098159169118608&hash=1ibln4lngaah56kq53hnvnj89tbvv01k"
-img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
-fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
-description="The lite and beautiful Lite Build, now for Kodi 17"
-version="2.2"
