@@ -1,0 +1,14 @@
+name="[KODI 17] SkymashiTV Kryptonia"
+url="http://skymashi.eu/tutorial/build/skymashitv_kryptonia_rel.zip"
+img="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_icon.png"
+fanart="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_fanart.png"
+description="Developed since Alpha and now completely overhauled for Kodi 17 final"
+version="1.5"
+
+name="[KODI 17] SkymashiTV Lite 2.0"
+url="C:\Users\mahmu\AppData\Roaming\Kodi\Kodi.zip"
+img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
+fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
+description="The lite and beautiful Lite Build, now for Kodi 17"
+version="2.2"
+
