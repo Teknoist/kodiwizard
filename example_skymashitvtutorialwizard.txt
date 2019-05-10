@@ -1,5 +1,5 @@
-name="[KODI 17] SkymashiTV Kryptonia"
-url="http://skymashi.eu/tutorial/build/skymashitv_kryptonia_rel.zip"
+name="[KODI 17] Yeni Bunu Dene"
+url="hhttps://doc-0g-2o-docs.googleusercontent.com/docs/securesc/vaa0ojj48llin1bpt5saqnt9e5ge176o/0i5mija64vtpkqrbanqpb75uffrfhd0e/1557525600000/10645098159169118608/10645098159169118608/1wZkzeCm8cvgjvgNEiDkWs_7Pm4d5H4D9?e=download&nonce=6e5grerac6fp0&user=10645098159169118608&hash=1ibln4lngaah56kq53hnvnj89tbvv01k"
 img="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_icon.png"
 fanart="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_fanart.png"
 description="Developed since Alpha and now completely overhauled for Kodi 17 final"
