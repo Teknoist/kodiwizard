@@ -12,3 +12,9 @@ fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1
 description="The lite and beautiful Lite Build, now for Kodi 17"
 version="2.2"
 
+name="[KODI 17] Dropbox Test"
+url="https://www.dropbox.com/s/ql2xiu1xxp6qyrk/Kodi.zip?dl=1"
+img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
+fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
+description="The lite and beautiful Lite Build, now for Kodi 17"
+version="2.2"
