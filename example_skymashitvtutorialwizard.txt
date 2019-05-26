@@ -6,7 +6,7 @@ description="The lite and beautiful Lite Build, now for Kodi 17"
 version="2.2"
 
 name="[KODI 17] MediaFire Test"
-url="http://download1494.mediafire.com/dcmeg3scaclg/260p7l59tiz05p6/Kodi.zip"
+url="ftp://root:root@192.168.1.1/volume/Kodi.zip"
 img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/rocket256.png"
 fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1c617cb0668d3ef1704eba.jpg"
 description="The lite and beautiful Lite Build, now for Kodi 17"
