@@ -12,9 +12,6 @@ fanart="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/52967e9aee1
 description="The lite and beautiful Lite Build, now for Kodi 17"
 version="2.2"
 
-http://download1494.mediafire.com/42rkcee7pjog/260p7l59tiz05p6/Kodi.zip
-
-
 name="[KODI 17]  Muhammet test"
 url="http://download1494.mediafire.com/42rkcee7pjog/260p7l59tiz05p6/Kodi.zip"
 img="https://raw.githubusercontent.com/Teknoist/kodiwizard/master/muha.png"
